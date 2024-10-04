@@ -1,7 +1,9 @@
-<h1 align="center"><b>Hi , I'm César Sanchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&size=25&center=true&vCenter=true&width=700&height=30&duration=4000&lines=Systems+engineering+student📝;+Front-end+developer👨‍💻;+Back-end+developer👨‍💻;&color=f50" />
-</h1>
+<h1 align="center"><b>Hi , I'm &lt;César Sanchez age='20' /&gt; </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&size=30&center=true&vCenter=true&width=700&height=50&duration=2000&lines=Systems+engineering+student📝;+Front-end+developer👨‍💻;+Back-end+developer👨‍💻;&color=f50" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div align="center">
     <img src="https://i.redd.it/1d11s820dgm91.gif"/>
 </div>
